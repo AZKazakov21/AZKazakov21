@@ -4,7 +4,7 @@
 
 - 👨‍💻Currently learning **C++ and JS**
 
-- 🤙 Contact me at **+359877554028**
+- 🤙 Contact with me at **+359877554028**
 
 - 💘 C++ is my **love** language
   
