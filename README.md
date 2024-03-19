@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Aleks Kazakov</h1>
+<h3 align="center">Aspiring backend developer and student of PGKPI!</h3>
+<img align="right" src="https://www.azquotes.com/picture-quotes/quote-c-makes-it-easy-to-shoot-yourself-in-the-foot-c-makes-it-harder-but-when-you-do-it-blows-bjarne-stroustrup-54-50-27.jpg" alt = "Coding" width = "500px">
 
-<!--
-**AZKazakov21/AZKazakov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻Currently learning **C++ and JS**
 
-Here are some ideas to get you started:
+- 🤙 Contact me at **+359877554028**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💘 C++ is my **love** language
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/azkazakov21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azkazakov21" height="30" width="40" /></a>
+</p><br/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azkazakov21&show_icons=true&locale=en" alt="azkazakov21" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azkazakov21&" alt="azkazakov21" /></p>
