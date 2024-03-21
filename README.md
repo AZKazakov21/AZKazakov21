@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aleks Kazakov</h1>
+<h1 align="center">Hi, I'm Alex Kazakov</h1>
 <h3 align="center">Aspiring backend developer and student of PGKPI!</h3>
 <img align="right" src="https://www.azquotes.com/picture-quotes/quote-c-makes-it-easy-to-shoot-yourself-in-the-foot-c-makes-it-harder-but-when-you-do-it-blows-bjarne-stroustrup-54-50-27.jpg" alt = "Coding" width = "500px">
 
